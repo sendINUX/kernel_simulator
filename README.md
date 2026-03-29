@@ -15,6 +15,3 @@ gcc -pthread -o kernel_simulator *.c
 
 ## Notes
 - Educational use only  
-- Very simplified kernel model  
-- Not a real OS kernel
-
