@@ -1,8 +1,8 @@
-/* #include "global_var.h"
+/* #include "../include/global_var.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include "datatypes.h"
-#include "queue.h"
+#include "../include/datatypes.h"
+#include "../include/queue.h"
 
 #define MAX_TTL 1000 // TTL maximo en ciclos de reloj
 

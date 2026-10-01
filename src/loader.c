@@ -3,8 +3,8 @@
 #include <stdio.h>
 #ifndef LOADER
 #define LODAER
-#include "queue.h"
-#include "global_var.h"
+#include "../include/queue.h"
+#include "../include/global_var.h"
 #endif
 
 extern struct machine_t machine;

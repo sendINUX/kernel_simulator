@@ -2,8 +2,8 @@
  * Implementacion de una cola FIFOs con una lista enlazada en C
  *
  */
-#include "datatypes.h"
-#include "queue.h"
+#include "../include/datatypes.h"
+#include "../include/queue.h"
 #include <stdlib.h>
 
 struct pcb_t idle_task = {0, 0,{0,0,0}};

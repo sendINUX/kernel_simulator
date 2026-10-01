@@ -1,8 +1,8 @@
-#include "queue.h"
-#include "header.h"
-#include "global_var.h"
+#include "../include/queue.h"
+#include "../include/header.h"
+#include "../include/global_var.h"
 #include <stdlib.h>
-#include "avanzar_maquina.h"
+#include "../include/avanzar_maquina.h"
 
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 pthread_mutex_t mutex_s = PTHREAD_MUTEX_INITIALIZER;

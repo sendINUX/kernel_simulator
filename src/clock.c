@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <stdlib.h>
-#include "global_var.h"
-#include "avanzar_maquina.h"
+#include "../include/global_var.h"
+#include "../include/avanzar_maquina.h"
 
 extern struct machine_t machine;
 

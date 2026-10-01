@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <pthread.h>
-#include "datatypes.h"
-#include "avanzar_maquina.h"
-#include "header.h"
-#include "global_var.h"
+#include "../include/datatypes.h"
+#include "../include/avanzar_maquina.h"
+#include "../include/header.h"
+#include "../include/global_var.h"
 #include <stdbool.h>
 
 extern struct machine_t machine;

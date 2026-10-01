@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #ifndef SCHED_D
 #define SCHED_D
-#include "queue.h"
-#include "global_var.h"
+#include "../include/queue.h"
+#include "../include/global_var.h"
 #endif
 
 

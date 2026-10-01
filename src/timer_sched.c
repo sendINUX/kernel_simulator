@@ -1,4 +1,4 @@
-#include "global_var.h"
+#include "../include/global_var.h"
 #include <stdlib.h>
 
 void *timer_sched(void *tick_sched)
